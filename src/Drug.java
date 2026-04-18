@@ -3,4 +3,7 @@ public class Drug {
     int[] doses;
     int fromAge;
     String[] sideEffects;
+    boolean isAvailable;
+
+    public void createDrug () {}
 }

@@ -7,6 +7,10 @@ public class Main {
         // if pass matches input user is now selected
         // go into res/patients and load files with patients
         // all patients with the user as their doctor are loaded
-        // from there idk ...
+        // from there I don't know ...
+
+        // make a window
+        GUI gui = new GUI();
+        gui.createLogin();
     }
 }
